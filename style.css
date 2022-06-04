@@ -29,6 +29,11 @@ body{
     text-align: center;
 }
 
+.box span{
+    font-size: 1.5rem;
+    color: #ced6e0;
+}
+
 .check{
     background-color: #2ED573;
     height: 1.5rem;
@@ -41,5 +46,10 @@ body{
 
 .check:active{
     background-color: #2f3542;
+}
+
+#answer{
+    background-color: #4247a5;
+    font-size: 1.8rem;
 }
 
