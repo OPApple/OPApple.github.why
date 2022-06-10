@@ -1,2 +1,1 @@
-# KanjiQuiz
-Asks you kanji.
+._.
